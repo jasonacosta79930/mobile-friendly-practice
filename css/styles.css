@@ -1,6 +1,8 @@
 body {
     background-image: url(/img/wave.svg);
     background-repeat: no-repeat;
+    background-size: 200%;
+
 }
 
 h1 {
