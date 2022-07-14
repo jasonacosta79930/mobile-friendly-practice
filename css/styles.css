@@ -1,23 +1,4 @@
 
-@media screen and (min-width: 480px) {
-    .firstname {
-
-     }
-}
-
-@media screen and (min-width: 768px) {
-    .firstname {
-
-     }
-}
-
-@media screen and (min-width: 1024px) {
-    .firstname {
-    } 
-}
-
-
-
 header .title {
     font-family: sans-serif;
     /* I gave this title absolute so it can be on top of the SVG */
@@ -56,3 +37,21 @@ footer {
     text-align: center;
     color: white;
   }
+
+  @media screen and (min-width: 480px) {
+    .firstname {
+
+     }
+}
+
+@media screen and (min-width: 768px) {
+    .firstname {
+
+     }
+}
+
+@media screen and (min-width: 1024px) {
+    .firstname {
+
+    } 
+}   
