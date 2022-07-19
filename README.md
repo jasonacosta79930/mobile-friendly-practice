@@ -1,1 +1,1 @@
-# mobile-friendly-practice
+# bootstrap-boilerplate
